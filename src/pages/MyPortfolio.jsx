@@ -1,4 +1,5 @@
 import React from "react";
+import './MyPortfolio.css'
 import HeaderSection from "./landing_sections/HeaderSection";
 import AboutSection from "./landing_sections/AboutSection";
 import ProjectSection from "./landing_sections/ProjectSection";
